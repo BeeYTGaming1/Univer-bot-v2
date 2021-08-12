@@ -1,0 +1,32 @@
+{
+  "name": "BotTest2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "ascii-table": "^0.0.9",
+    "axios": "^0.21.1",
+    "common-tags": "^1.8.0",
+    "config": "^3.3.6",
+    "covid19-stats": "^1.1.1",
+    "discord-player": "^4.1.4",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "0.0.1-security",
+    "google-tts-api": "^2.0.2",
+    "minecraft-server-util": "^3.5.2",
+    "script.db": "^1.0.1",
+    "superagent": "^6.1.0",
+    "twemoji-parser": "^13.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
